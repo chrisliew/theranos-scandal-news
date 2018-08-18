@@ -1,28 +1,56 @@
-.App {
-  text-align: center;
+.elizabeth {
+  width: 50%;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 80px;
+#card-image {
+  height: 12em;
 }
 
-.App-header {
-  background-color: #222;
-  height: 150px;
-  padding: 20px;
+.main-pic {
+  max-width: 100%;
+}
+
+.carousel{
+  width:850px;
+  height:450px;
+  margin:auto;
+  
+}
+
+.carousel-inner > .item > img {
+  width:1000px;
+  height:600px;
+} 
+
+.btn btn-primary btn-lg {
+  margin:auto;
+  display: block;
+}
+
+.jumbotron {
+  background-color:transparent;
+}
+
+#nanotainer {
+  color: black;
+}
+
+.buttons {
+  width: 100%;
+  margin: auto;
+  display: block;
+}
+
+#button {
+  width: 50%;
+}
+
+.card-deck {
+  padding: 1em;
+}
+
+.page-title {
   color: white;
-}
-
-.App-title {
-  font-size: 1.5em;
-}
-
-.App-intro {
-  font-size: large;
-}
-
-@keyframes App-logo-spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
+  padding-top: 0.5em;
+  padding-left: 0.5em;
 }
