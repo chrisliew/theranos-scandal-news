@@ -1,7 +1,7 @@
 Theranos Scandal News
 =====================
 
-Tracks the Theranos Scandal's latest news.  Gives updates for the upcoming movie starring Jennifer Lawrence.  Uses the newsapi.org API.  Built using Bootstrap and React.  Hosted on https://theranos-news.herokuapp.com/
+Tracks the Theranos Scandal's latest news.  Gives updates for the upcoming movie starring Jennifer Lawrence.  Uses the newsapi.org API.  Built using Bootstrap and React.  
 
 ## Screenshot
 
